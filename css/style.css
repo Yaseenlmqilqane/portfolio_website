@@ -668,7 +668,7 @@ footer {
     }
 
     .home .container-images img:hover.pic {
-        display: none;
+        display: nonegit;
     }
 
     nav > a {
